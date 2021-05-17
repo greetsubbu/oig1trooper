@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_507892_onetroope.oigroletable_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>oigroletable_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-04 01:33:26</sys_created_on>
+        <sys_id>eca88ad7db77e010681e87423996198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_507892_onetroope.oigroletable_user</sys_name>
+        <sys_package display_value="oneTrooperOIG" source="x_507892_onetroope">49f720c7dbf7a010681e874239961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="oneTrooperOIG">49f720c7dbf7a010681e874239961901</sys_scope>
+        <sys_update_name>sys_user_role_eca88ad7db77e010681e87423996198b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-04 01:33:26</sys_updated_on>
+    </sys_user_role>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="OIGUserTable" max_length="40" name="x_507892_onetroope_oigusertable" sizeclass="96" type="collection">
+        <element display="true" label="displayName" max_length="100" name="displayname" type="string"/>
+        <element label="id" max_length="40" name="id" type="integer"/>
+        <element label="name/familyName" max_length="40" name="name_familyname" type="string"/>
+        <element label="name/givenName" max_length="50" name="name_givenname" type="string"/>
+        <element label="userName" max_length="70" name="username" type="string"/>
+    </element>
+</database>

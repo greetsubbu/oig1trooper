@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>oracleAPI</name>
+        <password>rItozqr9anBBIAKSlvpn/Q==</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-04 22:52:10</sys_created_on>
+        <sys_id>f93d6e23db732410681e874239961926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>oracleAPI</sys_name>
+        <sys_package display_value="oneTrooperOIG" source="x_507892_onetroope">49f720c7dbf7a010681e874239961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="oneTrooperOIG">49f720c7dbf7a010681e874239961901</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_f93d6e23db732410681e874239961926</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-04 22:52:10</sys_updated_on>
+        <username>sri@oracle.com</username>
+    </sys_auth_profile_basic>
+</record_update>

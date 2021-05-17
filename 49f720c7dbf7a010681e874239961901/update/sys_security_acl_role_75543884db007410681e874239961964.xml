@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 03:20:36</sys_created_on>
+        <sys_id>75543884db007410681e874239961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_507892_onetroope_oigroletable.x_507892_onetroope.oigroletable_user</sys_name>
+        <sys_package display_value="oneTrooperOIG" source="x_507892_onetroope">49f720c7dbf7a010681e874239961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="oneTrooperOIG">49f720c7dbf7a010681e874239961901</sys_scope>
+        <sys_security_acl display_value="x_507892_onetroope_oigroletable">3d543884db007410681e874239961960</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_75543884db007410681e874239961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 03:20:36</sys_updated_on>
+        <sys_user_role display_value="x_507892_onetroope.oigroletable_user" name="x_507892_onetroope.oigroletable_user">eca88ad7db77e010681e87423996198b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

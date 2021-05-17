@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_members_49_value" label="members/49/value" language="en" table="x_507892_onetroope_oigrole_importset">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_members_49_value</element>
+            <help/>
+            <hint/>
+            <label>members/49/value</label>
+            <language>en</language>
+            <name>x_507892_onetroope_oigrole_importset</name>
+            <plural>members/49/values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-06 03:24:31</sys_created_on>
+            <sys_id>9f3538c4db007410681e874239961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>members/49/value</sys_name>
+            <sys_package display_value="oneTrooperOIG" source="x_507892_onetroope">49f720c7dbf7a010681e874239961901</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="oneTrooperOIG">49f720c7dbf7a010681e874239961901</sys_scope>
+            <sys_update_name>sys_documentation_x_507892_onetroope_oigrole_importset_u_members_49_value_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-06 03:24:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

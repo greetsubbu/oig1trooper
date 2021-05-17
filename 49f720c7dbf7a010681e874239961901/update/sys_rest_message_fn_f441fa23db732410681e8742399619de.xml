@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="oracleAPI">f93d6e23db732410681e874239961926</basic_auth_profile>
+        <basic_auth_user/>
+        <content/>
+        <function_name>GetAllUsers</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>CloudERPProvisioning  [ GetAllUsers ]</qualified_name>
+        <rest_endpoint>${baseurl}/hcmRestApi/scim/Roles</rest_endpoint>
+        <rest_message display_value="CloudERPProvisioning ">cb2c6223db732410681e8742399619a7</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-04 23:10:16</sys_created_on>
+        <sys_id>f441fa23db732410681e8742399619de</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GetAllUsers</sys_name>
+        <sys_package display_value="oneTrooperOIG" source="x_507892_onetroope">49f720c7dbf7a010681e874239961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="oneTrooperOIG">49f720c7dbf7a010681e874239961901</sys_scope>
+        <sys_update_name>sys_rest_message_fn_f441fa23db732410681e8742399619de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-04 23:10:45</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

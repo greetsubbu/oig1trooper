@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="User Administration">a5ad7d1047210100ba13a5554ee490a0</application>
+        <filter/>
+        <name>OIGroletables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_507892_onetroope.oigroletable_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-04 01:33:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4a8ced7db77e010681e874239961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OIGroletables</sys_name>
+        <sys_package display_value="oneTrooperOIG" source="x_507892_onetroope">49f720c7dbf7a010681e874239961901</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="oneTrooperOIG">49f720c7dbf7a010681e874239961901</sys_scope>
+        <sys_update_name>sys_ui_module_b4a8ced7db77e010681e874239961976</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-04 01:33:27</sys_updated_on>
+        <table>x_507892_onetroope_st_oigroletable</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="oneTrooperOIG">49f720c7dbf7a010681e874239961901</application>
+        <file_path/>
+        <instance_id>33f47b2adb27dbc8b2e05d00cf9619ff</instance_id>
+        <instance_name>dev68000</instance_name>
+        <name>sys_ui_module_b4a8ced7db77e010681e874239961976</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="User Administration">a5ad7d1047210100ba13a5554ee490a0</application><filter/><name>OIGroletables</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_507892_onetroope.oigroletable_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-04 01:33:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b4a8ced7db77e010681e874239961976</sys_id><sys_mod_count>0</sys_mod_count><sys_name>OIGroletables</sys_name><sys_package display_value="oneTrooperOIG" source="x_507892_onetroope">49f720c7dbf7a010681e874239961901</sys_package><sys_policy/><sys_scope display_value="oneTrooperOIG">49f720c7dbf7a010681e874239961901</sys_scope><sys_update_name>sys_ui_module_b4a8ced7db77e010681e874239961976</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-04 01:33:27</sys_updated_on><table>x_507892_onetroope_st_oigroletable</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>280370084</payload_hash>
+        <record_name>OIGroletables</record_name>
+        <reverted_from/>
+        <source>c9f720c7dbf7a010681e874239961903</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-04 01:33:27</sys_created_on>
+        <sys_id>78a8ced7db77e010681e874239961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179350233450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-04 01:33:27</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b0a8ced71f77e010a8859b87f84ccb79</update_guid>
+        <update_guid_history>b0a8ced71f77e010a8859b87f84ccb79:280370084</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-06 03:31:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>3a2016f0465e48be99ac697e27ce2b31</sys_id>
+        <sys_metadata>b4a8ced7db77e010681e874239961976</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OIGroletables</sys_name>
+        <sys_package display_value="oneTrooperOIG" source="x_507892_onetroope">49f720c7dbf7a010681e874239961901</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="oneTrooperOIG">49f720c7dbf7a010681e874239961901</sys_scope>
+        <sys_scope_delete display_value="">762b021b601b47149ccfbce2d0eacba4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_b4a8ced7db77e010681e874239961976</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_b4a8ced7db77e010681e874239961976">78a8ced7db77e010681e874239961979</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-06 03:31:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

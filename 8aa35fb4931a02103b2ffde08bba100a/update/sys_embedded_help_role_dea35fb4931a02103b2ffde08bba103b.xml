@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1426112_oracle_0.admin" name="x_1426112_oracle_0.admin">d2a35fb4931a02103b2ffde08bba103b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-19 00:09:09</sys_created_on>
+        <sys_id>dea35fb4931a02103b2ffde08bba103b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d2a35fb4931a02103b2ffde08bba103b</sys_name>
+        <sys_package display_value="Oracle Access Request" source="x_1426112_oracle_0">8aa35fb4931a02103b2ffde08bba100a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Oracle Access Request">8aa35fb4931a02103b2ffde08bba100a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dea35fb4931a02103b2ffde08bba103b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-19 00:09:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
